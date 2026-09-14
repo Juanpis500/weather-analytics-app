@@ -1,3 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+redis
+python-dotenv
 async-timeout==5.0.1
 PyJWT==2.13.0
-redis==5.3.1
