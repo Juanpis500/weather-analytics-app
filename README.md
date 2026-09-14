@@ -2,6 +2,9 @@
 
 Full-stack weather analytics application built with FastAPI, Redis, Vue 3, Pinia, and Tailwind CSS v4.
 
+Demo version online
+https://weather-analytics-app-green.vercel.app/
+
 ## Features
 - **Real-time Weather & 5-Day Forecast**: OpenWeatherMap API integration.
 - **High-Performance Caching**: Redis Cache-Aside pattern (10-minute TTL).
