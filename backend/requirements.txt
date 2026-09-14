@@ -2,6 +2,7 @@ fastapi
 uvicorn[standard]
 httpx
 pydantic
+pydantic-settings
 redis
 python-dotenv
 async-timeout==5.0.1
